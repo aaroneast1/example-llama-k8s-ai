@@ -16,7 +16,9 @@ This project is in a definition stage but the idea is to fully define a solution
 
 ## Solution Design
 
-A high-level Infrasturcture architecture diagram has been defined to outline the component parts of the hosting solution.  It is the initial draft and will be updated as IaC and Threat modelling progress.
+![Infrastructure diagram](design/AI_Cybersecurity_knowledge_Engine_v4.21022024.png)
+
+It is the initial draft of the infrastructure design and will be updated as IaC and Threat modelling progress.
 
 Application design has not yet been defined.
 
